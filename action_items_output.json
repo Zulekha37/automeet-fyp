@@ -1,0 +1,32 @@
+[
+  {
+    "task": "Finish remaining API endpoints and send documentation to the team",
+    "assignee": "Ayesha",
+    "deadline": "2026-10-01",
+    "priority": "Medium"
+  },
+  {
+    "task": "Complete the dashboard after receiving API documentation",
+    "assignee": "Zulekha",
+    "deadline": "2026-09-29",
+    "priority": "High"
+  },
+  {
+    "task": "Schedule a client demo",
+    "assignee": "Muneeb",
+    "deadline": "2026-09-30",
+    "priority": "Medium"
+  },
+  {
+    "task": "Test the payment integration",
+    "assignee": "Ayesha",
+    "deadline": "2026-09-27",
+    "priority": "High"
+  },
+  {
+    "task": "Review the security audit report",
+    "assignee": "Zulekha",
+    "deadline": "2026-10-01",
+    "priority": "Medium"
+  }
+]

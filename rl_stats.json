@@ -1,0 +1,10 @@
+{
+  "strategy_a": {
+    "uses": 1,
+    "positive_feedback": 1
+  },
+  "strategy_b": {
+    "uses": 0,
+    "positive_feedback": 0
+  }
+}
