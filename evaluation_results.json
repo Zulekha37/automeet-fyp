@@ -1,0 +1,33 @@
+{
+  "per_transcript": [
+    {
+      "predicted_count": 5,
+      "expected_count": 5,
+      "true_positives": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    {
+      "predicted_count": 2,
+      "expected_count": 2,
+      "true_positives": 2,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    {
+      "predicted_count": 5,
+      "expected_count": 5,
+      "true_positives": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    }
+  ],
+  "average": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  }
+}
