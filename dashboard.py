@@ -5,8 +5,8 @@ from groq import Groq
 from dotenv import load_dotenv
 import os
 
-from assignment_agent import assign_priority_and_dates
-from rl_agent import choose_strategy, record_feedback, get_stats_summary
+from agents.assignment_agent import assign_priority_and_dates
+from agents.rl_agent import choose_strategy, record_feedback, get_stats_summary
 
 load_dotenv()
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
